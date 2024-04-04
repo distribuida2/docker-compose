@@ -7,18 +7,18 @@ Este pequeño proyecto es para realizar un docker-compose mínimo. Lo que se hac
 
 https://github.com/distribuida2/ejemplo-docker
 
-### Instalación de docker-compose
+### Instalación del plugin de compose
 
-Docker compose, generalmente, no viene dentro de lo que nos instala Docker (al menos en sistemas *nix).
-Para instalarlo, podemos seguir las instrucciones en su web.
+Compose, generalmente, no viene dentro de lo que nos instala Docker (al menos en sistemas *nix).
 
-https://docs.docker.com/compose/install/
+[https://docs.docker.com/compose/install/
+](https://docs.docker.com/compose/install/linux/)
 
 ### ¿Cómo buildear e instanciar un contenedor?
 
 En el directorio raíz del proyecto corremos
 
-`docker-composer up`
+`docker compose up`
 
 
 ### Referencias
